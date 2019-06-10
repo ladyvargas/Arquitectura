@@ -22,6 +22,12 @@
 <h3> 2.3	Ventana emulador
 <p>A los fines de avanzar con los primeros pasos con el emu8086, en esto caso seleccionaremos la opción “empty                          workspace”. Luego de esto tendremos acceso a la ventana principal del emulador que cuenta con una barra de menú de Windows (file, edit, bookmarks, assembler, etc.) y varios botones de uso frecuente como New, Open, Save, Compile o Emulate. Esta ventana es en definitiva un editor de texto que permite crear y editar el código fuente de assembler.
                          <center><img src="p4.png" width="300" height="250"></center>
-<h3> 2.3	Código de la suma de 2 números
- <img src="p5.png" width="300" height="250">
+<h3> 2.4	Código de la suma de 2 números
+  <p>  <img src="p5.png" width="300" height="250">
+<h3> 2.5	Emulate
+ <p> Al hacer clic en el en “Emulate”, se tendrá acceso a gran variedad de funciones e información y seleccionamos run:
+   <center><img src="p6.png" width="300" height="250"></center>
+<h3> 2.6 Compilamos nuestro ejercicio y mostramos a la pantalla:
+  <p>
+  <center><img src="p7.png" width="300" height="250"></center>
                         
