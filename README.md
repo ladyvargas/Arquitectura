@@ -19,7 +19,7 @@
 <p>•	BIN template (directiva #make_bin#): es un archivo ejecutable simple. Permite definir el valor de todos los registros, segmentos y el lugar de memoria donde se cargará a este programa. Cuando por ejemplo el ensamblador carga el archivo "MY.BIN" en el emulador buscará el archivo "MY.BINF" y cargará al archivo "MY.BIN" en la ubicación especificada en "MY.BINF", al igual que el valor inicial configurado para todos los registros. En el caso de que el emulador no encuentre al archivo "MY.BINF", se utilizará el valor actual de los registros al momento de la ejecución del .BIN y este código se ubicará en los valores que tengan en ese momento CS:IP. 
 <p>•	BOOT template (directiva #make_boot#): funciona igual de que un .BIN, pero utiliza valores predefinidos para ubicar el código y que coinciden con el primer track de un floppy disk (boot sector). La única diferencia con la directiva #make_bin# es que carga el código en la dirección predefinida 0000:7c00h. Este template permite emular el bootedo de una IBM PC desde el floppy disk.
 
-<h3> 2.3	Ventana emulador
+<h3> 2.3	Ventana emulador.
 <p>A los fines de avanzar con los primeros pasos con el emu8086, en esto caso seleccionaremos la opción “empty                          workspace”. Luego de esto tendremos acceso a la ventana principal del emulador que cuenta con una barra de menú de Windows (file, edit, bookmarks, assembler, etc.) y varios botones de uso frecuente como New, Open, Save, Compile o Emulate. Esta ventana es en definitiva un editor de texto que permite crear y editar el código fuente de assembler.
                          <center><img src="p4.png" width="300" height="250"></center>
 <h3> 2.4	Código de la suma de 2 números
