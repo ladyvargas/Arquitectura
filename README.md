@@ -36,11 +36,11 @@ En el 8086/88 se definen los siguientes tamaños de datos:
 <P ALIGN="justify">A los fines de avanzar con los primeros pasos con el emu8086, en esto caso seleccionaremos la opción “empty                          workspace”. Luego de esto tendremos acceso a la ventana principal del emulador que cuenta con una barra de menú de Windows (file, edit, bookmarks, assembler, etc.) y varios botones de uso frecuente como New, Open, Save, Compile o Emulate. Esta ventana es en definitiva un editor de texto que permite crear y editar el código fuente de assembler.
                          <center><img src="p4.png" width="300" height="250"></center>
 <h3> 2.4	Código de la suma de 2 números</h3>
- <P ALIGN="justify"> <img src="p5.png" width="300" height="250">
+ <P ALIGN="justify"> <img src="p5.png" width="500" height="450">
 <h3> 2.5	Emulate</h3>
  <P ALIGN="justify"> Al hacer clic en el en “Emulate”, se tendrá acceso a gran variedad de funciones e información y seleccionamos run:
    <center><img src="p6.png" width="300" height="250"></center>
 <h3> 2.6 Compilamos nuestro ejercicio y mostramos a la pantalla:</h3>
  <P ALIGN="justify">
-  <center><img src="p7.png" width="300" height="250"></center>
+  <center><img src="p7.png" width="400" height="300"></center>
                         
