@@ -1,15 +1,15 @@
 # Arquitectura
-<h1>Emulador 8086
-  <h2> 1.	Introducción
-<p>El emu8086 es un emulador del microprocesador 8086 (Intel o AMD compatible) con assembler integrado. A diferencia del entorno de programación en assembler utilizado anteriormente en la cátedra (MASM), este entorno corre sobre Windows y cuenta con una interfaz gráfica muy amigable e intuitiva que facilita el aprendizaje el leguaje de programación en assembler. 
+<h1>Emulador 8086</h1>
+  <h2> 1.	Introducción</h2>
+<p>El emu8086 es un emulador del microprocesador 8086 (Intel o AMD compatible) con assembler integrado. A diferencia del entorno de programación en assembler utilizado anteriormente en la cátedra (MASM), este entorno corre sobre Windows y cuenta con una interfaz gráfica muy amigable e intuitiva que facilita el aprendizaje el leguaje de programación en assembler. </p>
   <center><img src="p1.png" width="300" height="250"></center>
-  <h2> 2.	Utilización del entorno
-    <h3> 2.1	Iniciar
-     <p> Para iniciar el entorno se deje ejecutar el archivo emu8086.exe que se encuentra en el directorio de instalación (ej. c:\emu8086).
+  <h2> 2.	Utilización del entorno</h2>
+    <h3> 2.1	Iniciar</h3>
+     <p> Para iniciar el entorno se deje ejecutar el archivo emu8086.exe que se encuentra en el directorio de instalación (ej. c:\emu8086). </p>
        <center><img src="p2.png" width="300" height="250"></center>
-     <h3> 2.2	Diferentes templantes
-       <p>Luego de iniciar el entorno el emu8086 ofrece diferentes opciones: 
-                                                                                                                                                      <p>• New: permite escribir un nuevo código en lenguaje ensamblador (“Código Fuente” con extensión .ASM) 
+     <h3> 2.2	Diferentes templantes</h3>
+       <p>Luego de iniciar el entorno el emu8086 ofrece diferentes opciones: </p>
+                                                                                                                                                      <p>• New: permite escribir un nuevo código en lenguaje ensamblador (“Código Fuente” con extensión .ASM) </p>
              <p>• Code examples: permite acceder a una serie de programas ejemplos muy útiles al momento de aprender a utilizar el                         entorno y la programación en assembler.
              <p>• Quick start tutor: llama al browser y permite explorar gran variedad de documentos de ayuda. 
              <p> • Recent file: muestra los últimos archivos con los cuales se estuvo trabajando. En el caso de hacer click en New, el                      entorno ofrece trabajar con diferentes plantillas o templates:
